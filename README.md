@@ -1,1 +1,1 @@
-Pick a color. I built it with my teacher, come and try it
+I BUILT IT USING HTML, CSS, and JavaScript. ALL WITH MY TEACHER
